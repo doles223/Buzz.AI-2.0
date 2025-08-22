@@ -1,0 +1,14 @@
+{
+  "name": "BUZZ.AI",
+  "symbol": "BUZZ",
+  "description": "AI x ADHD meme energy — the hyperactive token of chaos on Solana.",
+  "image": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/assets/buzzai.png",
+  "attributes": [
+    { "trait_type": "Vibe", "value": "Hyper" },
+    { "trait_type": "Category", "value": "Meme/AI" }
+  ],
+  "extensions": {
+    "website": "https://buzzai.io",
+    "twitter": "https://twitter.com/buzzai"
+  }
+}
