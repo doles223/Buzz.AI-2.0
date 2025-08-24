@@ -1,7 +1,10 @@
 {
   "name": "BUZZ.AI",
   "symbol": "BUZZ",
-  "uri": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/metadata/buzzai.json",
-  "seller_fee_basis_points": 0,
-  "creators": null
+  "description": "BUZZ.AI — AI x ADHD. Neon glitch-core energy, hyperactive utility.",
+  "image": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/assets/buzzai.png",
+  "extensions": {
+    "website": "https://buzzai.io",
+    "twitter": "https://twitter.com/buzzai"
+  }
 }
