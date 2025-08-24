@@ -1,24 +1,13 @@
 {
   "name": "BUZZ.AI",
   "symbol": "BUZZ",
-  "description": "BUZZ.AI = AI x ADHD. Neon glitch-core energy, hyperactive utility.",
-  "image": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/assets/buzzai.png",
-  "attributes": [
-    { "trait_type": "Series", "value": "BUZZ.AI 2.0" },
-    { "trait_type": "Tagline", "value": "AI x ADHD" }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/assets/buzzai.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  },
-  "extensions": {
-    "website": "https://buzzai.io",
-    "twitter": "https://twitter.com/buzzai"
-  },
-  "seller_fee_basis_points": 0
+  "uri": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/metadata/buzzai.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "Dvvyx7wEw6o3ynv3yGfcvLrGSLyzWbkpmD3Dhr3xkD",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
