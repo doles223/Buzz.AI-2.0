@@ -2,12 +2,6 @@
   "name": "BUZZ.AI",
   "symbol": "BUZZ",
   "uri": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/metadata/buzzai.json",
-  "seller_fee_basis_points": 500,
-  "creators": [
-    {
-      "address": "Dvvyx7wEw6o3ynv3yGfcvLrGSLyzWbkpmD3Dhr3xkD",
-      "verified": true,
-      "share": 100
-    }
-  ]
+  "seller_fee_basis_points": 0,
+  "creators": null
 }
