@@ -1,10 +1,13 @@
 {
   "name": "BUZZ.AI",
   "symbol": "BUZZ",
-  "description": "BUZZ.AI — AI x ADHD. Neon glitch-core energy, hyperactive utility.",
-  "image": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/assets/buzzai.png",
+  "decimals": 6,
+  "image": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/logo.png",
+  "description": "BUZZ.AI is an AI x ADHD meme coin, fueling chaos, speed, and community energy. Official token for the BUZZ.AI project.",
   "extensions": {
-    "website": "https://buzzai.io",
-    "twitter": "https://twitter.com/buzzai"
+    "website": "https://buzzingai.net",
+    "twitter": "https://twitter.com/YOURHANDLE",
+    "telegram": "https://t.me/YOURGROUP",
+    "discord": "https://discord.gg/YOURINVITE"
   }
 }
