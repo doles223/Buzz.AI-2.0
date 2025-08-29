@@ -1,13 +1,20 @@
 {
   "name": "BUZZ.AI",
   "symbol": "BUZZ",
-  "decimals": 6,
+  "description": "BUZZ.AI is an AI × ADHD meme coin powering chaos, speed, and community. Official token of the BUZZ.AI project.",
   "image": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/logo.png",
-  "description": "BUZZ.AI is an AI x ADHD meme coin, fueling chaos, speed, and community energy. Official token for the BUZZ.AI project.",
-  "extensions": {
-    "website": "https://buzzingai.net",
-    "twitter": "https://twitter.com/YOURHANDLE",
-    "telegram": "https://t.me/YOURGROUP",
-    "discord": "https://discord.gg/YOURINVITE"
+  "external_url": "https://buzzingai.net",
+  "attributes": [
+    {"trait_type": "Project", "value": "BUZZ.AI"},
+    {"trait_type": "Category", "value": "Meme/Community"}
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/logo.png",
+        "type": "image/png"
+      }
+    ]
   }
 }
+
